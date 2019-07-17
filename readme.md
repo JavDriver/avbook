@@ -49,7 +49,7 @@ AVBook 是基于 Laravel 开发的 Web 应用程序，通过 Artisan 控制台�
 这里提供一份开箱即用的压缩包 [avbook_laragon.7z](https://pan.baidu.com/s/1LPeGNNy-3MEDC0g9EbusLg)
 
 链接：<https://pan.baidu.com/s/1LPeGNNy-3MEDC0g9EbusLg> 
-提取码：gmmg 
+提取码：gmmg / gyym.avbook.bt.01
 
 压缩包中包含更新到2019.5.12的全部数据
 
